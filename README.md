@@ -41,7 +41,7 @@ sicht run hello.si
 ## Annex (Package Manager)
 ```bash
 annex search math
-annex install sicht-math
+annex install math
 annex list
 ```
 
