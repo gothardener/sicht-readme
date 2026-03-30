@@ -1,26 +1,21 @@
-Sicht Personal Use License (SPUL) v1.0
+MIT License
 
 Copyright (c) 2026 Gotharden
 
-# Permissions
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-You are free to use, modify, and study Sicht for personal, educational, or commercial purposes.
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-You may include Sicht in projects you distribute as long as you comply with the restrictions below.
-
-# Restrictions
-
-Do not claim Sicht as your own work.
-
-Do not sell or license Sicht as a standalone product.
-
-You may distribute projects that use Sicht, but Sicht itself must remain under this license.
-
-Attribution is appreciated: include a note stating “Sicht – https://github.com/gothardener/sichtlang”
- in distributed projects.
-
-# Disclaimer
-
-Sicht is provided “as-is”, without warranty of any kind.
-
-The author is not liable for any damages or issues arising from its use.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
